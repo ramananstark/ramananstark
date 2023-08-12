@@ -1,6 +1,6 @@
 # ✨ABOUT ME!!!
 
-- 🙋‍♂️ Hiyaa Ramanan here!!!
+- 🙋‍♂️ Hiyaa **Ramanan** here!!!
 - 🌱 I’m currently learning **Deeplearning and NeuralNetworks**
 - 🤔 I’m looking for help with Transformers and Language Models
 - 💬 Ask me about datascience and I'm open to contribute!!
