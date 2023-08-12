@@ -1,6 +1,5 @@
 ### Hi there 👋
-[![RAMANAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramananstark)](https://github.com/ramananstark/github-readme-stats)
-![ramanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramananstark&show_icons=true)
+[![RAMANAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramananstark&show_icons=true)](https://github.com/ramananstark/github-readme-stats)
 
 <!--
 **ramananstark/ramananstark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
