@@ -1,7 +1,7 @@
 # ✨ABOUT ME!!!
 
 - 🙋‍♂️ Hiyaa **Ramanan** here!!!
-- 🌱 I’m currently a under grad in **Bachelors in Information Technology**
+- 🌱 I’m currently a under grad in **Information Technology**
 - 🤔 I’m looking for working in Transformers and Language Models
 - 💬 Ask me about AI/Datascience and I'm open to contribute!!
 - ⚡ Cheers: Turning 'big data' into 'big insights' and coffee into code.
