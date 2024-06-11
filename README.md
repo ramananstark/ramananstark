@@ -1,10 +1,10 @@
 # ✨ABOUT ME!!!
 
 - 🙋‍♂️ Hiyaa **Ramanan** here!!!
-- 🌱 I’m currently learning **Deeplearning and NeuralNetworks**
-- 🤔 I’m looking for help with Transformers and Language Models
-- 💬 Ask me about datascience and I'm open to contribute!!
-- ⚡ Fun fact: Turning 'big data' into 'big insights' and coffee into code.
+- 🌱 I’m currently a under grad in **Bachelors in Information Technology**
+- 🤔 I’m looking for working in Transformers and Language Models
+- 💬 Ask me about AI/Datascience and I'm open to contribute!!
+- ⚡ Cheers: Turning 'big data' into 'big insights' and coffee into code.
 
 # 🌐 Reach out:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/RamananStark#7333) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ramanan_venkateshwaran/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramanan-venkateswaran-190ab5202/)
