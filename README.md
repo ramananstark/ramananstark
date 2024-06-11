@@ -2,7 +2,7 @@
 
 - 🙋‍♂️ Hiyaa **Ramanan** here!!!
 - 🌱 I’m currently a under grad in **Information Technology**
-- 🤔 I’m looking for working in Transformers and Language Models
+- 🤔 Looking out for working in Transformers and Language Models
 - 💬 Ask me about AI/Datascience and I'm open to contribute!!
 - ⚡ Cheers: Turning 'big data' into 'big insights' and coffee into code.
 
